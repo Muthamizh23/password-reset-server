@@ -91,7 +91,7 @@ const forgotPassword = async (req, res) => {
       service: "gmail",
       auth: {
         user: 'muthamizh1023@gmail.com',
-        pass: 'muthamizh1023@hari',
+        pass: 'nnlm qxzo dphi edve', 
       },
     });
 
